@@ -60,7 +60,7 @@ display:flex;
 justify-content:center;
 align-items:center;
 text-align:center;
- background: url("./background.png") center center/cover no-repeat;
+ background: url("./images/background.png") center center/cover no-repeat;
 }
 
 .hero h1{
